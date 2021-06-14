@@ -1,4 +1,10 @@
-### Hi there 👋
+### Three14 Consulting
+
+Hi, welcome to Three14 Consulting's GitHub page. I, Edward, manage a data analytics/data science consultancy. 
+
+I have over 8 years experience in this field with experience in sub-fields ranging from data warehousing/ETL, business intelligence/data visualisation through to predictive modeling/data science/machine learning.
+
+You can find a sample of my skillset here. If you have any questions, you can reach me at edward@three14consulting.
 
 <!--
 **three14consulting/three14consulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
