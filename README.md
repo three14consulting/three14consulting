@@ -9,6 +9,16 @@ If you have any questions, you can reach Edward at **edward@three14consulting**.
 Three14 Consulting's LinkedIn: https://www.linkedin.com/company/three14consulting \
 Edward's LinkedIn: https://www.linkedin.com/in/edwardmb/
 
+## Highlights
+Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
+
+### Data Science/Machine Learning
+* [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
+
+### Webscrapes
+* [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
+
+
 <!--
 **three14consulting/three14consulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
