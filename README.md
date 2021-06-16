@@ -1,4 +1,4 @@
-# Three14 Consulting
+<h1 align="center"> Three14 Consulting</h1>
 
 Hi, welcome to Three14 Consulting's GitHub page. Three14 Consulting provides data analytics/data science services on a contractual basis.
 
