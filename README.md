@@ -4,10 +4,13 @@ Hi, welcome to Three14 Consulting's GitHub page. Three14 Consulting provides dat
 
 Edward, the Managing Director, has over 8 years experience in this field with experience in sub-fields ranging from **data warehousing/ETL**, **business intelligence/data visualisation** through to predictive **modeling/data science/machine learning**.
 
+## Contact/Connect
+
+
 If you have any questions, you can reach Edward at **edward@three14consulting**.
 
-Three14 Consulting's LinkedIn: https://www.linkedin.com/company/three14consulting \
-Edward's LinkedIn: https://www.linkedin.com/in/edwardmb/
+Three14 Consulting's LinkedIn: <img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" alt="https://www.linkedin.com/company/three14consulting" width="30">\
+Edward's LinkedIn: <img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" alt="https://www.linkedin.com/in/edwardmb/" width="30">
 
 ## Highlights
 Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
