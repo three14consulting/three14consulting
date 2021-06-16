@@ -16,6 +16,15 @@ Edward's LinkedIn:
 <a href="https://www.linkedin.com/in/edwardmb/">
 <img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>
 
+## Highlights
+Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
+
+### Data Science/Machine Learning
+* [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
+
+### Webscrapes
+* [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
+
 ## Languages & Tools
 <!-- Python, numpy, pandas, scikit-learn, pyspark
 Apache Hadoop, Apache Hive, Apache Spark
@@ -45,15 +54,6 @@ Tableau
 <a href="https://www.tableau.com/"><img src="https://user-images.githubusercontent.com/16806642/122243049-b6710b00-cebb-11eb-9ce6-ca97efc01895.png" height="40"></a>
 
 
-
-## Highlights
-Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
-
-### Data Science/Machine Learning
-* [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
-
-### Webscrapes
-* [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
 
 
 <!--
