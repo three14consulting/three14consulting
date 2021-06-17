@@ -17,7 +17,7 @@ Please see a sample of projects highlighting specific skills. In parenthesis is 
 
 ### Data Science/Machine Learning
 * [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
-* (Work-in-Progress) Predicting Bike Rental Demand (Example of Regression and Time-Series Forecasting) (Python)
+* [Predicting Bike Rental Demand (Example of Regression)](https://github.com/three14consulting/Python/blob/main/Seoul_Bike_Rental) (Python)
 
 ### Webscrapes
 * [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
