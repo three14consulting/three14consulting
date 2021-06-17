@@ -9,13 +9,9 @@ Edward, the Managing Director, has over 8 years experience in this field with ex
 
 If you have any questions, you can reach Edward at [edward@three14consulting](mailto:edward@three14consulting.com).
 
-Three14 Consulting's LinkedIn: 
-<a href="https://www.linkedin.com/company/three14consulting">
-<img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>\
-Edward's LinkedIn:
-<a href="https://www.linkedin.com/in/edwardmb/">
-<img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>
+<a href="https://www.linkedin.com/company/three14consulting"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>Three14 Consulting's LinkedIn
 
+<a href="https://www.linkedin.com/in/edwardmb/"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>Edward's LinkedIn
 ## Highlights
 Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
 
