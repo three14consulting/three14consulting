@@ -12,6 +12,13 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 <a href="https://www.linkedin.com/company/three14consulting"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>[Three14 Consulting's LinkedIn](https://www.linkedin.com/company/three14consulting)
 
 <a href="https://www.linkedin.com/in/edwardmb/"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>[Edward's LinkedIn](https://www.linkedin.com/in/edwardmb/)
+## 🧱 Upcoming Projects/Work-in-Progress
+### Artificial Intelligence
+#### Deep Learning/Artificial Neural Networks
+* Natural Language Processing (NLP) utilising Keras/TensorFlow libraries (Example of AI Deep Learning) (Python)
+### Computer Vision
+* Image recognition project, classifying between two classes.
+
 ## ✨ Highlights
 Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
 
