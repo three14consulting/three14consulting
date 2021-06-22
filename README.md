@@ -57,7 +57,7 @@ Tableau
 <!--SQL-->
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://user-images.githubusercontent.com/16806642/122244714-fe446200-cebc-11eb-8203-5ea6d7851ffe.png" height="40"></a>
 <!--Tabeau-->
-<a href="https://public.tableau.com/profile/three14consulting#!/"><img src="https://user-images.githubusercontent.com/16806642/122243049-b6710b00-cebb-11eb-9ce6-ca97efc01895.png" height="40"></a>
+<a href="https://www.tableau.com/"><img src="https://user-images.githubusercontent.com/16806642/122243049-b6710b00-cebb-11eb-9ce6-ca97efc01895.png" height="40"></a>
 <!--Git & GitHub-->
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/16806642/122245961-136dc080-cebe-11eb-945e-4487e6f8206e.png" height="40"></a>
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/16806642/122245710-ddc8d780-cebd-11eb-9d0e-e2e72c870079.png" height="40"></a>
