@@ -49,6 +49,7 @@ Tableau
 <a href="http://hadoop.apache.org/"><img src="https://user-images.githubusercontent.com/16806642/122239597-f97daf00-ceb8-11eb-8a1a-63e2e3cc7d99.jpg" height="40"></a>
 <a href="https://hive.apache.org/"><img src="https://user-images.githubusercontent.com/16806642/122239900-3d70b400-ceb9-11eb-889d-f7438c83810d.png" height="40"></a>
 <a href="https://spark.apache.org/"><img src="https://user-images.githubusercontent.com/16806642/122238829-5c227b00-ceb8-11eb-83dc-e7f6a7d4934c.png" height="40"></a>
+<a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://raw.githubusercontent.com/computefoundation/gnu-linux-shell-scripting/images/logo.png" height="40"></a>
 <!--R-->
 <a href="https://www.r-project.org/"><img src="https://user-images.githubusercontent.com/16806642/122241258-5332a900-ceba-11eb-8004-b546625f765b.png" height="40"></a>
 <a href="https://www.rstudio.com/"><img src="https://user-images.githubusercontent.com/16806642/122241516-85440b00-ceba-11eb-8a02-67d1602720c8.png" height="40"></a>
