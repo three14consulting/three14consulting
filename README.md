@@ -54,6 +54,7 @@ Tableau
 <!--Git & GitHub-->
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/16806642/122245961-136dc080-cebe-11eb-945e-4487e6f8206e.png" height="40"></a>
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/16806642/122245710-ddc8d780-cebd-11eb-9d0e-e2e72c870079.png" height="40"></a>
+<a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" height="40"></a>
 
 
 
