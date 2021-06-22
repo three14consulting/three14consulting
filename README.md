@@ -1,18 +1,18 @@
 <h1 align="center"> Three14 Consulting</h1>
 
-Hi, welcome to Three14 Consulting's GitHub page. Three14 Consulting provides data analytics/data science services on a contractual basis.
+Hi and welcome to Three14 Consulting's GitHub page! Three14 Consulting provides data analytics/data science services on a contractual basis.
 
 Edward, the Managing Director, has over 8 years experience in this field with experience in sub-fields ranging from **data warehousing/ETL**, **business intelligence/data visualisation** through to predictive **modeling/data science/machine learning**.
 
-## Contact/Connect
+## ✒ Contact & Connect
 
 
 If you have any questions, you can reach Edward at [edward@three14consulting](mailto:edward@three14consulting.com).
 
-<a href="https://www.linkedin.com/company/three14consulting"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>Three14 Consulting's LinkedIn
+<a href="https://www.linkedin.com/company/three14consulting"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>[Three14 Consulting's LinkedIn](https://www.linkedin.com/company/three14consulting)
 
-<a href="https://www.linkedin.com/in/edwardmb/"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>Edward's LinkedIn
-## Highlights
+<a href="https://www.linkedin.com/in/edwardmb/"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="40"></a>[Edward's LinkedIn](https://www.linkedin.com/in/edwardmb/)
+## ✨ Highlights
 Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
 
 ### Data Science/Machine Learning
@@ -24,7 +24,7 @@ Please see a sample of projects highlighting specific skills. In parenthesis is 
 ### Webscrapes
 * [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
 
-## Languages & Tools
+## 🛠 Languages & Tools
 <!-- Python, numpy, pandas, scikit-learn, pyspark
 Apache Hadoop, Apache Hive, Apache Spark
 SQL
