@@ -20,7 +20,7 @@ Please see a sample of projects highlighting specific skills. In parenthesis is 
 * [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
 * [Predicting Bike Rental Demand (Example of Regression)](https://github.com/three14consulting/Python/blob/main/Seoul_Bike_Rental) (Python)
 #### Dimensionality Reduction & Unsupervised Learning
-* [Feature Extraction & Customer Segmentation (Examples of Principal Components and Clustering)](https://github.com/three14consulting/Python/tree/main/PCA_Clustering)(Python)
+* [Feature Extraction & Customer Segmentation (Examples of Principal Components and Clustering)](https://github.com/three14consulting/Python/tree/main/PCA_Clustering) (Python)
 ### Webscrapes
 * [Distribution of Rents on SpareRoom.co.uk](https://github.com/three14consulting/R/tree/main/SpareRoom_Webscrape) (R)
 
