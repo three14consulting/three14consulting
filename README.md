@@ -16,7 +16,7 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 ### Artificial Intelligence
 #### Deep Learning/Artificial Neural Networks
 * Natural Language Processing (NLP) utilising Keras/TensorFlow libraries (Example of AI Deep Learning) (Python)
-### Deep Computer Vision
+#### Deep Computer Vision
 * Image recognition project, classifying between 10 classes (Example of Convolution Neural Networks).
 
 ## ✨ Highlights
