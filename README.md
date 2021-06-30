@@ -41,8 +41,10 @@ Tableau
 -->
 <!-- Python -->
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/16806642/122236893-ce925b80-ceb6-11eb-8c35-aa8495242847.jpg" height="40"></a>
-<a href="https://pandas.pydata.org/"><img src="https://user-images.githubusercontent.com/16806642/122238246-e4545080-ceb7-11eb-81ed-fabf7b22845d.png" height="40"></a>
+<a href="https://pandas.pydata.org/"><img src="https://user-images.githubusercontent.com/16806642/123957215-6c038a00-d9a3-11eb-8bd8-6989020146cb.png" height="40"></a>
 <a href="https://scikit-learn.org/"><img src="https://user-images.githubusercontent.com/16806642/122237495-482a4980-ceb7-11eb-8e00-110910309480.png" height="40"></a>
+<a href="https://www.tensorflow.org/"><img src="https://user-images.githubusercontent.com/16806642/123956367-87ba6080-d9a2-11eb-835c-96bd0034260a.png" height="40"></a>
+<a href="https://keras.io/"><img src="https://user-images.githubusercontent.com/16806642/123956615-c94b0b80-d9a2-11eb-862a-7d8b39db700b.png" height="40"></a>
 <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/16806642/122241874-c9cfa680-ceba-11eb-8234-3cdde594b843.jpg" height="50"></a>
 <a href="https://www.spyder-ide.org/"><img src="https://user-images.githubusercontent.com/16806642/122242431-38acff80-cebb-11eb-9959-a8163f2e06b2.png" height="50"></a>
 <!-- Apache Hadoop/Hive/Spark -->
