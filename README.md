@@ -47,6 +47,7 @@ Tableau
 <a href="https://www.tensorflow.org/"><img src="https://user-images.githubusercontent.com/16806642/123956367-87ba6080-d9a2-11eb-835c-96bd0034260a.png" height="40"></a>
 <a href="https://keras.io/"><img src="https://user-images.githubusercontent.com/16806642/123956615-c94b0b80-d9a2-11eb-862a-7d8b39db700b.png" height="40"></a>
 <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/16806642/122241874-c9cfa680-ceba-11eb-8234-3cdde594b843.jpg" height="50"></a>
+<a href="https://jupyterlab.readthedocs.io/en/stable/index.html"><img src="https://user-images.githubusercontent.com/16806642/124261266-7ef39700-db28-11eb-82af-de1b85b18ca0.png" height="40"></a>
 <a href="https://www.spyder-ide.org/"><img src="https://user-images.githubusercontent.com/16806642/122242431-38acff80-cebb-11eb-9959-a8163f2e06b2.png" height="50"></a>
 <!-- Apache Hadoop/Hive/Spark -->
 <a href="http://hadoop.apache.org/"><img src="https://user-images.githubusercontent.com/16806642/122239597-f97daf00-ceb8-11eb-8a1a-63e2e3cc7d99.jpg" height="40"></a>
