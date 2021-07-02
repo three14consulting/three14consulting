@@ -21,7 +21,9 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
 ### Artificial Intelligence
 #### Deep Computer Vision
-* [Classification of 10 Image Classes on Imbalanced Dataset (Example of Convolution Neural Networks and Transfer Learning)](https://github.com/three14consulting/Python/blob/main/DeepComputerVision/) (Python)
+- [Classification of 10 Image Classes on Imbalanced Dataset (Example of Convolution Neural Networks and Transfer Learning)](https://github.com/three14consulting/Python/blob/main/DeepComputerVision/) (Python)
+  -   [Model Deployment Using TensorFlow Serving and REST API](https://github.com/three14consulting/Python/tree/main/TensorFlow_Serving) (Python)
+
 
 ### Data Science/Machine Learning
 #### Supervised Learning
