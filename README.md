@@ -2,7 +2,7 @@
 
 Hi and welcome to Three14 Consulting's GitHub page! Three14 Consulting provides data analytics/data science services on a contractual basis.
 
-Edward, the Managing Director, has over 8 years experience in this field with experience in sub-fields ranging from **data warehousing/ETL**, **business intelligence/data visualisation** through to predictive **modeling/data science/machine learning**.
+Edward, the Managing Director, has over 8 years experience in this field with experience in sub-fields ranging from **data warehousing/ETL**, **business intelligence/data visualisation** through to **predictive modeling/data science/machine learning/artificial intelligence**.
 
 ## ✒ Contact & Connect
 
