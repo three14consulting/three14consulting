@@ -18,7 +18,7 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 * Natural Language Processing (NLP) utilising Keras/TensorFlow libraries (Example of AI Deep Learning) (Python)
 
 ## ✨ Highlights
-Please see a sample of projects highlighting specific skills. In parenthesis is the language used.
+Please see a sample of projects highlighting specific skills and knowledge. In parenthesis is the language used.
 ### Artificial Intelligence
 #### Deep Computer Vision
 - [Classification of 10 Image Classes on Imbalanced Dataset (Example of Convolution Neural Networks and Transfer Learning)](https://github.com/three14consulting/Python/blob/main/DeepComputerVision/) (Python)
