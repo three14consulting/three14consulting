@@ -15,7 +15,7 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 ## 🧱 Upcoming Projects/Work-in-Progress
 ### Artificial Intelligence
 #### Deep Learning/Artificial Neural Networks
-* Natural Language Processing (NLP) utilising Keras/TensorFlow libraries (Example of AI Deep Learning) (Python)
+* Natural Language Processing (NLP) utilising PyTorch library (Python)
 
 ## ✨ Highlights
 Please see a sample of projects highlighting specific skills and knowledge. In parenthesis is the language used.
