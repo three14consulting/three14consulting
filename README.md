@@ -44,6 +44,7 @@ Tableau
 -->
 <!-- Python -->
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/16806642/122236893-ce925b80-ceb6-11eb-8c35-aa8495242847.jpg" height="40"></a>
+<a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/16806642/124614951-b20d9180-de6c-11eb-8012-5b45566dd26a.png" height="40"></a>
 <a href="https://pandas.pydata.org/"><img src="https://user-images.githubusercontent.com/16806642/123957215-6c038a00-d9a3-11eb-8bd8-6989020146cb.png" height="40"></a>
 <a href="https://scikit-learn.org/"><img src="https://user-images.githubusercontent.com/16806642/122237495-482a4980-ceb7-11eb-8e00-110910309480.png" height="40"></a>
 <a href="https://www.tensorflow.org/"><img src="https://user-images.githubusercontent.com/16806642/123956367-87ba6080-d9a2-11eb-835c-96bd0034260a.png" height="40"></a>
