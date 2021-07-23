@@ -16,8 +16,9 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 ### Artificial Intelligence
 #### Deep Learning/Artificial Neural Networks
 * Natural Language Processing (NLP) utilising PyTorch library (Python)
+* Forecasting Project using Deep Learning/Neural Networks (Python)
 ### Time Series Analysis & Forecasting
-* Forecasting Varicella (Chickenpox) Cases across the Counties of Hungary (Example of Multivariate Time Series Forecasting) (Python)
+* Forecasting Varicella (Chickenpox) Cases across the Counties of Hungary (Example of Forecasting using Time Series Methods) (Python)
 
 ## ✨ Highlights
 Please see a sample of projects highlighting specific skills and knowledge. In parenthesis is the language used.
