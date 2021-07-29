@@ -16,9 +16,8 @@ If you have any questions, you can reach Edward at [edward@three14consulting](ma
 ### Artificial Intelligence
 #### Deep Learning/Artificial Neural Networks
 * Natural Language Processing (NLP) utilising PyTorch library (Python)
+### Forecasting
 * Forecasting Project using Deep Learning/Neural Networks (Python)
-### Time Series Analysis & Forecasting
-* Forecasting Varicella (Chickenpox) Cases across the Counties of Hungary (Example of Forecasting using Time Series Methods) (Python)
 
 ## ✨ Highlights
 Please see a sample of projects highlighting specific skills and knowledge. In parenthesis is the language used.
@@ -26,8 +25,8 @@ Please see a sample of projects highlighting specific skills and knowledge. In p
 #### Deep Computer Vision
 - [Classification of 10 Image Classes on Imbalanced Dataset (Example of Convolution Neural Networks and Transfer Learning)](https://github.com/three14consulting/Python/blob/main/DeepComputerVision/) (Python)
   -   [Model Deployment Using TensorFlow Serving and REST API](https://github.com/three14consulting/Python/tree/main/TensorFlow_Serving) (Python)
-
-
+### Forecasting
+* [Forecasting Varicella (Chickenpox) Cases in Hungary (Example of Forecasting using Time Series Methods)](https://github.com/three14consulting/Python/tree/main/Hungary_Chickenpox) (Python)
 ### Data Science/Machine Learning
 #### Supervised Learning
 * [Detecting Credit Card Fraud (Example of Classification)](https://github.com/three14consulting/Python/tree/main/Credit_Card_Fraud) (Python)
