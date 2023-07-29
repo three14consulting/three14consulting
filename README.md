@@ -1,17 +1,33 @@
 <h1 align="center"> Three14 Consulting</h1>
 
+```diff
+-Please note, Three14 Consulting is no longer trading.
+```
+
 Hi and welcome to Three14 Consulting's GitHub page! Three14 Consulting provides data analytics/data science services on a contractual basis.
 
-Edward, the Managing Director, has over 8 years experience in this field with experience in sub-fields ranging from **data warehousing/ETL**, **business intelligence/data visualisation** through to **predictive modeling/data science/machine learning/artificial intelligence**.
-
+```diff
+-removed
+```
 ## ✒ Contact & Connect
+```diff
+-removed
+```
+## Directory Listing
+```
+|-- python
+   |-- credit_card_fraud
+   |-- DeepComputerVision
+   |-- hungary_chickenpox
+   |-- pca_clustering
+   |-- seoul_bike_rental
+   |-- TensorFlow_Serving
+|-- R
+   |-- SpareRoom_Webscrape
+|-- HiveQL
+|-- SAS
+```
 
-
-If you have any questions, you can reach Edward at [edward@three14consulting](mailto:edward@three14consulting.com).
-
-<a href="https://www.linkedin.com/company/three14consulting"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="50"></a>[Three14 Consulting's LinkedIn](https://www.linkedin.com/company/three14consulting)
-
-<a href="https://www.linkedin.com/in/edwardmb/"><img align="center" src="https://user-images.githubusercontent.com/16806642/122231281-3eeaae00-ceb2-11eb-9456-77a3b08ab883.png" height="50"></a>[Edward's LinkedIn](https://www.linkedin.com/in/edwardmb/)
 ## ✨ Highlights
 Please see a sample of projects highlighting specific skills and knowledge. In parenthesis is the language used.
 ### Artificial Intelligence
